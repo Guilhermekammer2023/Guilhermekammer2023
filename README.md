@@ -1,6 +1,18 @@
-### Hi there 👋
+## boa vindas ao meu perfil
+
+meu nome é gGuiçher de carvalho kammer.
+. Estou aprendendo a programar com a plataforma alura/.
+. Me interessam as linguagens de programação; javascript e scratch
+. Tambem estou aprendendo as linguagens de marcaçã, HTML e CSS
+. Utilizo este espaço para saçvar meus projetos e compartilar meus codigos
+
+## meu e-mail para contato é
+
+guilherme.kammer@escola.pr.gov.br
 
 <!--
+
+
 **Guilhermekammer2023/Guilhermekammer2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
