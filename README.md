@@ -1,6 +1,6 @@
 ## boa vindas ao meu perfil
 
-meu nome é gGuiçher de carvalho kammer.
+meu nome é guilherme de carvalho kammer.
 . Estou aprendendo a programar com a plataforma alura/.
 . Me interessam as linguagens de programação; javascript e scratch
 . Tambem estou aprendendo as linguagens de marcaçã, HTML e CSS
